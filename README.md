@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-143&show_icons=true&locale=en" alt="chandan-143" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan-143&" alt="chandan-143" /></p>
+<p><img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="" /></p>
